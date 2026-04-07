@@ -1,4 +1,4 @@
-# UserInterfaceApp
+# UserInterfaceApp -- Assignment 4 GUI Development 
 ## Features
 - User input handling
 - Event-driven button clicks
